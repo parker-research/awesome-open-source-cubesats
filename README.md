@@ -11,6 +11,7 @@ CubeSat teams and organizations committed to open source projects.
 
 * [Oresat](https://www.oresat.org)
 * [BIRDS](https://github.com/BIRDSOpenSource)
+    * BIRDS3 Mission: [CAD Assembly](https://github.com/BIRDSOpenSource/BIRDS3-CAD/tree/main/BIRDS3_Satellite)
 * [Libre Space Foundation](https://libre.space/), [[GitLab](https://gitlab.com/librespacefoundation/awesome-open-space)]
     * [UPSat Mission](https://web.archive.org/web/20220316110954/https://upsat.gr/), [[GitHub](https://github.com/librespacefoundation?query=upsat)]
     * [SatNOGS](https://satnogs.org/)
@@ -31,6 +32,13 @@ CubeSat teams and organizations committed to open source projects.
 * [OpenLST Radio](https://github.com/OpenLST/openlst)
 * [Little Free Radio](https://github.com/orgs/UBNanosatLab/repositories?type=all&q=lfr) from [UB Nanosatellite Laboratory](https://github.com/UBNanosatLab)
     * [Research Paper](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=4211&context=smallsat)
+* [IN PROGRESS] [OrcaSat's Modular Cubesat Radio](https://gitlab.orcasat.ca/open-source-projects/mcr)
+
+### UHF Antennas
+
+* [AcubeSAT Antenna Deployment Mechanism](https://gitlab.com/acubesat/mechanisms/antenna-deployment-mch)
+* [ORCASat Antenna](https://gitlab.orcasat.ca/orcasat-group/orcasat-antenna)
+* [BIRDS3 Antenna Panel](https://github.com/BIRDSOpenSource/BIRDS3-AntennaPanel)
 
 ### On-Board Computers (OBC)
 
@@ -56,6 +64,7 @@ Submit a PR or Issue!
 
 * [SatNOGS](https://satnogs.org/)
 
-## Related Awesome Lists
+## Related Lists
 
 * https://gitlab.com/librespacefoundation/awesome-open-space
+* https://cubesat-resources.space/references/missions/
